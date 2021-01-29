@@ -8,7 +8,7 @@ function createWindow () {
       nodeIntegration: true
     },
     resizable: false,
-    icon:'calculator.jpeg'
+    icon:'cal.png'
   })
 
   win.loadFile('index.html')
